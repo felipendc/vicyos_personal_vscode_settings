@@ -1,7 +1,7 @@
 {
   "workbench.iconTheme": "eq-material-theme-icons-light",
   "workbench.colorTheme": "One Dark Pro Darker", // Tema padrão.
-  "editor.fontSize": 17, // Tamanho padrão da fonte
+  "editor.fontSize": 16, // Tamanho padrão da fonte
   "editor.lineHeight": 1.4, // Espaços entre linhas.
   "editor.formatOnSave": true, // Formata o meu código ao salvar o arquivo.
   "workbench.startupEditor": "newUntitledFile", // Abre o VSCode com um arquivo já em branco.
