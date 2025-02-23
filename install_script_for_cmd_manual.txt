@@ -1,0 +1,25 @@
+SAVING DIRECTORIES:
+
+%APPDATA%\Code\User\settings.json
+%USERPROFILE%\.vscode\extensions
+
+
+
+DEFAULT CODE EXTENSIONS VIA WINDOWS CMD:
+
+code --force --install-extension zhuangtongfa.Material-theme
+code --force --install-extension Dart-Code.flutter
+code --force --install-extension Dart-Code.dart-code
+code --force --install-extension esbenp.prettier-vscode
+code --force --install-extension ritwickdey.LiveServer
+code --force --install-extension naumovs.color-highlight
+code --force --install-extension tal7aouy.theme
+code --force --install-extension Equinusocio.vsc-material-theme-icons
+code --force --install-extension akamud.vscode-theme-onedark
+
+
+
+TO INSTALL AND UNINSTALL CODE EXTENSIONS:
+
+code --force --install-extension 
+code --uninstall-extension

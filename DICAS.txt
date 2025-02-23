@@ -1,0 +1,31 @@
+CONTROL SHIFT P = DIGITE SETTINGS /// Open user settings JSON
+
+Control P // Eu posso procurar por arquivos 
+
+Ocutar barras laterais:
+Control B // Oculta a aba de arquivos
+
+
+
+Shift Alt baixo // Cópia exata da linha
+
+Control Shift K // Apaga a linha selecionada
+
+Control Shift Enter // Adiciona uma nova linha acima da linha atual
+
+F2 // Troca o nome da vareável em todos os lugares que ela está.
+
+Control Shift F // Procura por palavas em todos os arquivos do projeto.
+
+Control C e V // Copia uma linha e cola a linha abaixo 
+
+Control X // Deleta a linha TOPPP
+
+Alt pra cima ou pra baixo // Anda com a linha entre outras linha.
+
+Alt e clique do mouse // Para inserir texto em varias linhas.
+
+
+
+
+
