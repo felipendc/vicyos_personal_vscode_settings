@@ -16,7 +16,7 @@ code --force --install-extension naumovs.color-highlight
 code --force --install-extension tal7aouy.theme
 code --force --install-extension Equinusocio.vsc-material-theme-icons
 code --force --install-extension akamud.vscode-theme-onedark
-
+code --force --install-extension zainchen.json
 
 
 TO INSTALL AND UNINSTALL CODE EXTENSIONS:
